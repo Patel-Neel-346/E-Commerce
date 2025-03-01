@@ -36,7 +36,7 @@ function App() {
         <Route path='/verify' element={<Verify/>}/>
       </Routes>
       <Footer/>
-      <Chatbot />
+      <Chatbot/>
     </div>
   )
 }
